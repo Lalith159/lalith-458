@@ -1,1 +1,189 @@
-# my name is lalith
+🗓️ DSA 20-Day Schedule for Beginners
+📍 Week 1: Core Fundamentals & Array Mastery
+🔹 Day 1 – Introduction & Time Complexity
+What is DSA?
+
+Big O notation (Time and Space Complexity)
+
+Basic I/O, loops, conditionals (if needed)
+
+🧠 Practice: 2–3 easy problems (e.g., Time complexity quizzes)
+
+🔹 Day 2 – Arrays Basics
+Array operations (insertion, deletion, traversal)
+
+🧠 Practice:
+
+LeetCode: Two Sum, Max Consecutive Ones
+
+🔹 Day 3 – Two Pointer Technique
+Concept + applications
+
+🧠 Practice:
+
+Move Zeroes
+
+Remove Duplicates
+
+🔹 Day 4 – Sliding Window Technique
+Fixed and variable window
+
+🧠 Practice:
+
+Maximum Subarray
+
+Longest Substring Without Repeating Characters
+
+🔹 Day 5 – Strings Basics
+Common string functions and manipulations
+
+🧠 Practice:
+
+Valid Anagram
+
+Reverse String
+
+📍 Week 2: Recursion, Linked Lists, Searching & Sorting
+🔹 Day 6 – Recursion Fundamentals
+Recursive functions, base & recursive cases
+
+🧠 Practice:
+
+Factorial
+
+Fibonacci
+
+🔹 Day 7 – Backtracking Basics
+Subsets, permutations
+
+🧠 Practice:
+
+Subsets
+
+Permutations
+
+🔹 Day 8 – Linked List Basics
+Create, traverse, insert, delete
+
+🧠 Practice:
+
+Reverse Linked List
+
+Middle of the Linked List
+
+🔹 Day 9 – Fast & Slow Pointer
+Cycle detection
+
+🧠 Practice:
+
+Linked List Cycle
+
+Palindrome Linked List
+
+🔹 Day 10 – Sorting Algorithms
+Bubble, Selection, Merge Sort
+
+🧠 Practice:
+
+Implement merge sort manually
+
+Sort Colors
+
+📍 Week 3: Stacks, Queues, Trees
+🔹 Day 11 – Stack Basics
+LIFO, use cases
+
+🧠 Practice:
+
+Valid Parentheses
+
+Min Stack
+
+🔹 Day 12 – Queue & Deque
+FIFO, use cases
+
+🧠 Practice:
+
+Implement Queue using Stacks
+
+Sliding Window Maximum
+
+🔹 Day 13 – Trees: Basics & Traversals
+Preorder, Inorder, Postorder
+
+🧠 Practice:
+
+Binary Tree Inorder Traversal
+
+Maximum Depth of Binary Tree
+
+🔹 Day 14 – Binary Search Tree
+Insertion, searching
+
+🧠 Practice:
+
+Validate BST
+
+Lowest Common Ancestor
+
+🔹 Day 15 – Level Order & BFS/DFS
+Breadth-first & depth-first traversal
+
+🧠 Practice:
+
+Binary Tree Level Order Traversal
+
+Same Tree
+
+📍 Week 4: Hashing, Heaps, Graphs, DP
+🔹 Day 16 – HashMaps & HashSets
+Frequency count, lookups
+
+🧠 Practice:
+
+Two Sum
+
+Group Anagrams
+
+🔹 Day 17 – Heaps & Priority Queue
+Min Heap, Max Heap
+
+🧠 Practice:
+
+Top K Frequent Elements
+
+Kth Largest Element in Array
+
+🔹 Day 18 – Graph Basics
+Adjacency list/matrix, DFS/BFS
+
+🧠 Practice:
+
+Number of Islands
+
+Clone Graph
+
+🔹 Day 19 – Dynamic Programming Basics
+Memoization, Tabulation
+
+🧠 Practice:
+
+Climbing Stairs
+
+House Robber
+
+🔹 Day 20 – Final DP Practice & Wrap-up
+🧠 Practice:
+
+Longest Increasing Subsequence
+
+0/1 Knapsack (GFG)
+
+Reflect on weaknesses & revise
+
+🧰 Tools You Can Use:
+IDE: VS Code, LeetCode Playground
+
+Practice Sites: LeetCode, GeeksforGeeks, HackerRank
+
+Track Your Progress: Google Sheet / Notion board
